@@ -15,7 +15,7 @@ Zagadnienia niezwiązane bezpośrednio z IaC lub terraformem będa powierzchowni
 
 Oprócz tego proszę o zainstalowanie i skonfigurowanie poniższych narzędzi. 
 
-- [terraform](https://www.terraform.io/downloads.html) >= 15.4 
+- [terraform](https://www.terraform.io/downloads.html) >= 0.15.4 
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/install) >= 342.0.0
 
 ### Konfiguracja Google Cloud SDK
